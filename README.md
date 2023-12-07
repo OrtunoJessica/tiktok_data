@@ -22,3 +22,4 @@ In this project I have used a dataset from Kaggle:
 
 ## Files Included
 * [TikTok Data csv file (this file was used)](https://github.com/OrtunoJessica/tiktok_data/blob/main/free_tiktok_scraper_dataset.csv)
+* [TikTok Data Analysis](https://github.com/OrtunoJessica/tiktok_data/blob/main/TikTok%20Data%20Analysis.ipynb)
