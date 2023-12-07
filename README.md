@@ -5,6 +5,13 @@ Using linear regression, this project aims to investigate whether or not there i
 In this project I have used a dataset from Kaggle: 
 * [Kaggle Dataset](https://www.kaggle.com/datasets/muhammadanasmahmood/tiktok-dataset/code)
 
+## Questions
+1. What is the best measure of popularity?  
+    * Comment count?
+    * Play count?
+    * Share count?
+2. Does Duration effect popularity?
+
 ## Analysis Steps
 
 1. **Step 1:** Install + Import Necessary Libraries
